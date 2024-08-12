@@ -1,2 +1,2 @@
-# Sid-s-Responsive-Landing-Page
+# Sid-Responsive-Landing-Page
 Responsive Landing Page
